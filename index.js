@@ -54,7 +54,7 @@ function MainContent() {
 ReactDOM.render(
     <div>
         <Navbar />
-        
+        <MainContent />
     </div>,
     document.getElementById("root")
 )
