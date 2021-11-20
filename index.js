@@ -38,6 +38,12 @@ function Navbar() {
     )
 }
 
+function MainContent() {
+    return(
+        "One of these days, I'm gonna be a wiz with React!"
+    )
+}
+
 // Challenge: Create your own custom React component!
 // Call it "MainContent", and have it return a simple
 // h1 element that says "I'm learning React!"
